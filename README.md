@@ -121,6 +121,7 @@
     * Work in progress
 
 ## Credits - 
+<!-- Markdown link & img dfn's -->
     * loiphin - [loiphin's tech](http://www.loiph.in/2014/09/arduino-leonardo-atmega32u4-based-usb.html/)
     * mrdavidjwatts - [USB-Volume-Control GitHub](https://github.com/mrdavidjwatts/USB-Volume-Control/)
     * alizaliz - [Giant USB Volume Knob](http://www.instructables.com/id/Giant-USB-Volume-Knob/)
