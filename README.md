@@ -118,6 +118,12 @@
 * **0.0.1 - Aug 29, 2017**
     * Work in progress
 
+## Credits - 
+    * loiphin - [loiphin's tech ¯\_(ツ)_/¯](http://www.loiph.in/2014/09/arduino-leonardo-atmega32u4-based-usb.html)
+    * mrdavidjwatts - [USB-Volume-Control GitHub](https://github.com/mrdavidjwatts/USB-Volume-Control)
+    * alizaliz - [Giant USB Volume Knob](http://www.instructables.com/id/Giant-USB-Volume-Knob/)
+    * Lexikos - [VA.ahk](https://github.com/ahkscript/VistaAudio)
+
 ## Meta -
 
 Kyle Gilmour – [@YourTwitter](https://twitter.com/dbader_org) – winsimdevices@gmail.com
