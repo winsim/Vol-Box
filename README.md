@@ -49,29 +49,30 @@
   * Finish me! 
 
 
-#### Bill of Materials (for Part One) -
-##### LEDs - 
+
+### Bill of Materials (for Part One) -
+#### LEDs - 
    * 1x Orange LED (panel-mount)
-##### Electromechanical - 
+#### Electromechanical - 
    * 1x 10k Ω LOG potentiometer
    * 1x 10k Ω LOG DUAL-GANG (STEREO) potentiometer
-##### Other - 
+#### Other - 
    * 4x PCB standoffs
    * 2x Knobs
    * 1x Enclosure (both the Arduino part and Logitech part will go in the same enclosure)
 
-#### Bill of Materials (for Part Two) -
-##### Microcontroller -
+### Bill of Materials (for Part Two) -
+#### Microcontroller -
    * Arduino Pro Micro (5V, 16MHz)
-##### Resistors - 
+#### Resistors - 
    * 10x 10k Ω
    * 3x 220 Ω
-##### LEDs - 
+#### LEDs - 
    * 3x Red LEDs (panel-mount)
-##### Electromechanical - 
+#### Electromechanical - 
    * 2x SPST MOM NO push button (1x for Source and 1x for Arduino Reset)
    * 3x Rotary encoders with switches (5-pin)  
-##### Other - 
+#### Other - 
    * 4x PCB standoffs
    * 3x Knobs
    * 1x Enclosure
@@ -82,8 +83,10 @@
 
 ### Windows:
 1. Download and install the Arduino IDE - (LINK)
-2. Download and install SoundSwitch (optional) - (LINK)
-3. 
+2. Download the HID library - (LINK)
+3. Copy and paste 'VA.ahk' from included "resources" folder into AutoHotkey's main library folder (default: C:\Users\USER\Documents\AutoHotkey\Lib)
+4. Download and install SoundSwitch (optional) - (LINK)
+
 
 ### OS X & Linux:
 1. idk..
@@ -119,10 +122,10 @@
     * Work in progress
 
 ## Credits - 
-    * loiphin - [loiphin's tech ¯\_(ツ)_/¯](http://www.loiph.in/2014/09/arduino-leonardo-atmega32u4-based-usb.html)
-    * mrdavidjwatts - [USB-Volume-Control GitHub](https://github.com/mrdavidjwatts/USB-Volume-Control)
+    * loiphin - [loiphin's tech](http://www.loiph.in/2014/09/arduino-leonardo-atmega32u4-based-usb.html/)
+    * mrdavidjwatts - [USB-Volume-Control GitHub](https://github.com/mrdavidjwatts/USB-Volume-Control/)
     * alizaliz - [Giant USB Volume Knob](http://www.instructables.com/id/Giant-USB-Volume-Knob/)
-    * Lexikos - [VA.ahk](https://github.com/ahkscript/VistaAudio)
+    * Lexikos - [VA.ahk](https://github.com/ahkscript/VistaAudio/)
 
 ## Meta -
 
