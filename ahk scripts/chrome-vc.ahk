@@ -1,3 +1,5 @@
+!F8::Suspend
+
 ; >> Google Chrome Volume Control <<
 
 SetTitleMatchMode, 3
