@@ -41,11 +41,13 @@
   * Secure potentiometers and LED to front of enclosure
   * Close up and test out! 
 
-### Part Two - Arduino USB Volume Control Project - 
+### Part Two - Arduino USB Volume Control Project -
+
+![](volbox-bb-3re-v3_bb.jpg)
+
 #### Step One -
   * Finish me! 
 
-![](header.png)
 
 #### Bill of Materials (for Part One) -
 ##### LEDs - 
