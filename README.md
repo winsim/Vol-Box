@@ -2,7 +2,7 @@
 > A fairly simple project to create a 'USB Volume Control Box' using an Arduino Pro Micro 5v clone and AutoHotKey scripts. As well as integrating my Logitech X-240's original remote controller PCB and the bass control knob from the back of the sub box (such a horrid deisgn..) into the same enclosure as the Arduino.
 
 ### The Plan: 
- centralize ALL audio controls into one small(ish) space on my desk. Inluding:
+ centralize ALL audio controls into one small(ish) space on my desk. Including:
    * Main volume control for Logitech X-240 speakers
    * Bass volume control for Logitech X-240 sub woofer
    * Main volume control and mute for computer via USB (done using NicoHood's HID library)
