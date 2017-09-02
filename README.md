@@ -1,7 +1,7 @@
 # **Vol-Box**
 > A fairly simple project to create a 'USB Volume Control Box' using an Arduino Pro Micro 5v clone and AutoHotKey scripts. As well as integrating my Logitech X-240's original remote controller PCB and the bass control knob from the back of the sub box (such a horrid deisgn..) into the same enclosure as the Arduino.
 
-### The Plan: 
+#### The Plan: 
  centralize ALL audio controls into one small(ish) space on my desk. Including:
    * Main volume control for Logitech X-240 speakers
    * Bass volume control for Logitech X-240 sub woofer
@@ -10,11 +10,14 @@
    * Customizable game volume control and mute via USB (done using AutoHotkey Scripts)
    * 3x LEDs to show muted states of rotary encoders
    * Push button to change audio output/source (done using SoundSwitch)
-### Why:
+#### Why:
    * the lightweight, always in the way or always falling off the back of my desk, often unreachable remote control for my Logitech X-240 speakers really doesn't fit at all into my computer setup and is often pushed off to the back of my desk behind the monitors and the control for the bass is located on the back of the sub box, which is also often pushed to the back of my desk making it very, very difficult to adjust the bass
    * also being as I watch a lot of Netflix and am often forced into changing the volume of whatever I'm watching via the slider given with the player, again this is a hassle.. wouldn't it be great just to have a knob to adjust the volume of Google Chrome within the volume mixer? I think it would! 
    * another problem I'm often faced with is adjusting the volume of fullscreened games.. this can be such a headache! The solution.. a knob to adjust the volume of whatever game (will have a short setup process due to having to change scripts around to your needs) I'm playing at the time within the volume mixer! 
    * sometimes you just have to adjust the master volume within the volume mixer.. soooo.. yet again, ANOTHER KNOB! Plus there's left over pins to play with! 
+#### How:
+   * Finish me! 
+   
 
 ### Part One - Logitech X-240 Rework - 
 #### Step One - 
@@ -22,7 +25,6 @@
   * Desolder original potentiometer (bass control)
   * Solder 3x 18g wires in place of original potentiometer, secure with hot glue (I ended up using a computer PSU power cable with the                                                                                     ends cut off)
   * Feed wire through back of box and put the PCB back in place
-  
 #### Step Two - 
   * Remove PCB from inside of the remote control
   * Desolder original sidewheel potentiometer (speaker volume) **BE CAREFUL! YOU MUST REMEMBER WHICH PINS WENT WHERE!**
@@ -31,7 +33,6 @@
   * Solder 2x 24g wires in place of original LED, secure with hot glue
   * Resecure original hot glue joints as they weren't secured very well
   * Cut 2x slots in the bottom of the enclosure to feed the PCB wires through
-  
 #### Step Three -
   * Drill appropriate holes in front of enclosure 
   * Mount PCB standoffs to controller board and secure to inside of enclosure with hot glue
@@ -50,7 +51,7 @@
 
 
 
-### Bill of Materials (for Part One) -
+## Bill of Materials (for Part One - Logitech X-240 Rework) -
 #### LEDs - 
    * 1x Orange LED (panel-mount)
 #### Electromechanical - 
@@ -61,7 +62,7 @@
    * 2x Knobs
    * 1x Enclosure (both the Arduino part and Logitech part will go in the same enclosure)
 
-### Bill of Materials (for Part Two) -
+## Bill of Materials (for Part Two - Arduino USB Volume Control Project) -
 #### Microcontroller -
    * Arduino Pro Micro (5V, 16MHz)
 #### Resistors - 
@@ -80,21 +81,19 @@
 
 
 ## Installation -
-
-### Windows:
+#### Windows:
 1. Download and install the Arduino IDE - (LINK)
 2. Download the HID library - (LINK)
 3. Copy and paste 'VA.ahk' from included "resources" folder into AutoHotkey's main library folder (default: C:\Users\USER\Documents\AutoHotkey\Lib)
 4. Download and install SoundSwitch (optional) - (LINK)
 
-
-### OS X & Linux:
+#### OS X & Linux:
 1. idk..
 
 
 
 ## Arduino Code -
-(LINK)
+ Please download the sketch through the repository or through the download page on the wiki. Thanks!
 
 
 
