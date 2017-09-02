@@ -1,3 +1,5 @@
+^F8::Suspend
+
 ; >> DiRT 4 Volume Control <<
 
 SetTitleMatchMode, 3

@@ -1,3 +1,5 @@
+^F8::Suspend
+
 ; >> DiRT Rally Volume Control <<
 
 SetTitleMatchMode, 3
