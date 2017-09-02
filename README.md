@@ -43,7 +43,7 @@
 
 ### Part Two - Arduino USB Volume Control Project -
 
-![](volbox-bb-3re-v3_bb.jpg)
+![](pictures/volbox-bb-3re-v3_bb.jpg)
 
 #### Step One -
   * Finish me! 
