@@ -51,7 +51,7 @@
 
 
 
-## Bill of Materials (for Part One - Logitech X-240 Rework) -
+### Bill of Materials (for Part One - Logitech X-240 Rework) -
 #### LEDs - 
    * 1x Orange LED (panel-mount)
 #### Electromechanical - 
@@ -62,7 +62,7 @@
    * 2x Knobs
    * 1x Enclosure (both the Arduino part and Logitech part will go in the same enclosure)
 
-## Bill of Materials (for Part Two - Arduino USB Volume Control Project) -
+### Bill of Materials (for Part Two - Arduino USB Volume Control Project) -
 #### Microcontroller -
    * Arduino Pro Micro (5V, 16MHz)
 #### Resistors - 
