@@ -44,14 +44,18 @@
   * Solder the other end of the new cable coming from the back of the sub box to a 10k Ω LOG potentiometer
   * Secure potentiometers and LED to front of enclosure
   * Close up and test out! 
+  
+###### Schematic - 
+
+![](pictures/VOLBOX-breakout-logitech_v1_bb.jpg)
 
 ##### Part Two - Arduino USB Volume Control Project -
-
-![](pictures/volbox-bb-3re-v3_bb.jpg)
-
 ###### Step One -
   * Finish me! 
 
+###### Schematic - 
+
+![](pictures/VOLBOX-breakout-arduino_v1_bb.jpg)
 
 
 #### Bill of Materials (for Part One - Logitech X-240 Rework) -
