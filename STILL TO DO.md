@@ -1,9 +1,9 @@
 # Still to do:
 
 1) Finish README
-2) Uploaded updated .fzpz files
-    * Updated breadboard
-    * Updated circuit
+2) ~Uploaded updated .fzpz files~
+    * ~Updated breadboard~
+    * ~Updated circuit~
 3) Add another INTURRUPT pin
 4) Readjust the pinout so...
     * Encoder0 = Main = Top position
