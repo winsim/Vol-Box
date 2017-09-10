@@ -1,4 +1,4 @@
-### _**Release History -**_
+# _**Release History -**_
 
 * **0.0.8 - Sep 10, 2017**
     * Update: README
