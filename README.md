@@ -18,7 +18,7 @@
 ###### _How:_
    * Finish me! 
 
-### _ Overall Schematic: _
+### _Overall Schematic:_
 
 ![](pictures/VOLBOX-breakout-final_v1_bb.jpg)
 
@@ -45,42 +45,42 @@
   * Secure potentiometers and LED to front of enclosure
   * Close up and test out! 
   
-###### _ Schematic - _
+###### _Schematic -_
 
 ![](pictures/VOLBOX-breakout-logitech_v1_bb.jpg)
 
-##### _ Part Two - Arduino USB Volume Control Project -_
-###### _ Step One -_
+##### _Part Two - Arduino USB Volume Control Project -_
+###### _Step One -_
   * Finish me! 
 
-###### _ Schematic -_ 
+###### _Schematic -_ 
 
 ![](pictures/VOLBOX-breakout-arduino_v1_bb.jpg)
 
 
-#### _ Bill of Materials (for Part One - Logitech X-240 Rework) -_
-###### _ LEDs - _
+#### _Bill of Materials (for Part One - Logitech X-240 Rework) -_
+###### _LEDs -_
    * 1x Orange LED (panel-mount)
-###### _ Electromechanical - _
+###### _Electromechanical -_
    * 1x 10k Ω LOG potentiometer
    * 1x 10k Ω LOG DUAL-GANG (STEREO) potentiometer
-###### _ Other -_ 
+###### _Other -_ 
    * 4x PCB standoffs
    * 2x Knobs
    * 1x Enclosure (both the Arduino part and Logitech part will go in the same enclosure)
 
-#### _ Bill of Materials (for Part Two - Arduino USB Volume Control Project) -_
-###### _ Microcontroller -_
+#### _Bill of Materials (for Part Two - Arduino USB Volume Control Project) -_
+###### _Microcontroller -_
    * Arduino Pro Micro (5V, 16MHz)
-###### _Resistors - _
+###### _Resistors -_
    * 10x 10k Ω
    * 3x 220 Ω
-###### _LEDs - _
+###### _LEDs -_
    * 3x Red LEDs (panel-mount)
-###### _Electromechanical - _
+###### _Electromechanical -_
    * 2x SPST MOM NO push button (1x for Source and 1x for Arduino Reset)
    * 3x Rotary encoders with switches (5-pin)  
-###### _Other - _
+###### _Other -_
    * 4x PCB standoffs
    * 3x Knobs
    * 1x Enclosure
