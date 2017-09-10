@@ -18,7 +18,7 @@
 ###### _How:_
    * Finish me! 
 
-### _Overall Schematic: _
+### _ Overall Schematic: _
 
 ![](pictures/VOLBOX-breakout-final_v1_bb.jpg)
 
@@ -45,7 +45,7 @@
   * Secure potentiometers and LED to front of enclosure
   * Close up and test out! 
   
-###### _Schematic - _
+###### _ Schematic - _
 
 ![](pictures/VOLBOX-breakout-logitech_v1_bb.jpg)
 
@@ -53,7 +53,7 @@
 ###### _ Step One -_
   * Finish me! 
 
-###### _Schematic -_ 
+###### _ Schematic -_ 
 
 ![](pictures/VOLBOX-breakout-arduino_v1_bb.jpg)
 
