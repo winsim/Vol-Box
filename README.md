@@ -104,29 +104,6 @@
 
 
 
-#### _Release History -_
-
-* **0.0.3 - Sep 01, 2017**
-    * Update: README.TXT
-    * Add: Third LED to Arduino Code
-    * Add: Third rotary encoder to Arduino Code
-    * Add: 'VA.ahk' to: '...\Resources'
-    * Add: 'panic-button.ahk', press esc to terminate all running AHK scripts
-    * Add: 'chrome-vc.ahk' to: '...\Code\AutoHotKey Scripts'
-    * Add: 'dirt_rally-vc.ahk' to: '...\Code\AutoHotKey Scripts'
-    * Add: 'dirt_4-vc.ahk' to: '...\Code\AutoHotKey Scripts'
-    * Remove: 'chrome-nomute.ahk'
-    * Remove: 'dirt_rally-nomute.ahk'
-    * Remove: 'dirt_4-nomute.ahk'
-    
-* **0.0.2 - Aug 31, 2017**
-    * Add: 'chrome-nomute.ahk' to: '...\Code\AutoHotKey Scripts'
-    * Add: 'dirt_rally-nomute.ahk' to: '...\Code\AutoHotKey Scripts'
-    * Add: 'dirt_4-nomute.ahk' to: '...\Code\AutoHotKey Scripts'
-    
-* **0.0.1 - Aug 29, 2017**
-    * Work in progress
-
 #### _Credits - _
 <!-- Markdown link & img dfn's -->
     * loiphin - [loiphin's tech](http://www.loiph.in/2014/09/arduino-leonardo-atmega32u4-based-usb.html/)
